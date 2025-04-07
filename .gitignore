@@ -1,0 +1,74 @@
+# Dependencies
+**/node_modules/
+**/.pnp
+.pnp.js
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+*$py.class
+**/.Python
+**/env/
+**/venv/
+**/.env
+**/.venv
+**/ENV/
+**/dist/
+**/build/
+**/develop-eggs/
+**/downloads/
+**/eggs/
+**/.eggs/
+**/lib/
+**/lib64/
+**/parts/
+**/sdist/
+**/var/
+**/*.egg-info/
+**/.installed.cfg
+**/*.egg
+
+# Testing
+**/coverage
+**/.coverage
+**/htmlcov/
+
+# Production
+**/build
+**/dist
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+**/.env
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+**/debug.log
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Chroma DB files
+**/chroma/
+**/chroma_db/
+**/.chroma/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
